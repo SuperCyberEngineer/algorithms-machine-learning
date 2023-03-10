@@ -1,0 +1,2 @@
+- what does k-fold validation give?
+  - the variance of space of the infer model?
